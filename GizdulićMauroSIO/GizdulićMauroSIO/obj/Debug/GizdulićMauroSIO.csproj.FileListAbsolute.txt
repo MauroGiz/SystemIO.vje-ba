@@ -1,0 +1,6 @@
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroSIO\GizdulićMauroSIO\bin\Debug\GizdulićMauroSIO.exe.config
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroSIO\GizdulićMauroSIO\bin\Debug\GizdulićMauroSIO.exe
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroSIO\GizdulićMauroSIO\bin\Debug\GizdulićMauroSIO.pdb
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroSIO\GizdulićMauroSIO\obj\Debug\GizdulićMauroSIO.csprojResolveAssemblyReference.cache
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroSIO\GizdulićMauroSIO\obj\Debug\GizdulićMauroSIO.exe
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroSIO\GizdulićMauroSIO\obj\Debug\GizdulićMauroSIO.pdb
